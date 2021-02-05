@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> chrecter entities </title>
+</head>
+<body>
+    <p>
+        <img src="kitkat.jpg" width="400" height="400">
+    </br>
+    this chocolate is from brand &quot;KITKAT&quot;
+</br>
+    the price of this chocolate is &apos;10Rs&apos;
+</br>
+    this chocolate is melted at 45&deg;
+</br>
+    10&gt;5
+</br>
+    5&lt;10
+    </p> 
+<hr/>
+this tag can separate the above and below part by drawinga line horizontelly.
+</br> 
+click the image below to go to the kitkat website and learn more.
+</br>
+<a href="https://www.hersheys.com/kitkat/en_us/home.html"><img src="kitkat.jpg" width="100" height="100"></a>
+
+</body>
+</html>
